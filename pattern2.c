@@ -1,4 +1,11 @@
 // Programming to print n star vertically
+/*  *
+    *
+    *
+    * 
+    * 
+    * 
+    *    */
 #include<stdio.h>
 int main()
 {

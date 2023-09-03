@@ -1,4 +1,5 @@
 // Programming to print n star in a line 
+/*    * * * * * * *   */
 #include<stdio.h>
 int main()
 {
